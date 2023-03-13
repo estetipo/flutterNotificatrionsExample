@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "891033436151",
+    "project_id": "notif-8f094",
+    "storage_bucket": "notif-8f094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891033436151:android:23233dac9697cce16138f2",
+        "android_client_info": {
+          "package_name": "com.example.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891033436151-8ggiumhfbq03rdphtmr9p26im9snlgih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notif",
+            "certificate_hash": "986da71d981d82edd82a27d4bf85235b74f5427c"
+          }
+        },
+        {
+          "client_id": "891033436151-s5l01kvphbrm57ns1kp5ou77hal46tmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnL2X_Qiz8fnUcjRIImg2M_FX06OtprjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891033436151-s5l01kvphbrm57ns1kp5ou77hal46tmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891033436151:android:2a1eb3c2ac3732796138f2",
+        "android_client_info": {
+          "package_name": "com.example.notification_test.notification_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891033436151-s5l01kvphbrm57ns1kp5ou77hal46tmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnL2X_Qiz8fnUcjRIImg2M_FX06OtprjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891033436151-s5l01kvphbrm57ns1kp5ou77hal46tmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
